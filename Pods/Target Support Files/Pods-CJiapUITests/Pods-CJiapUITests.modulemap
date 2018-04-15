@@ -1,0 +1,6 @@
+framework module Pods_CJiapUITests {
+  umbrella header "Pods-CJiapUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

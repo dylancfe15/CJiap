@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>371485469670-03vfusu2t3l490u4542e768037sdmg9a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.371485469670-03vfusu2t3l490u4542e768037sdmg9a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2EKBv7NPvus-e8WchTjrw1daOVAw5FHI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>371485469670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Difeng-Chen.CJiap</string>
+	<key>PROJECT_ID</key>
+	<string>cjiap-180303</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cjiap-180303.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:371485469670:ios:0f98a1e9e552d4c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://cjiap-180303.firebaseio.com</string>
+</dict>
+</plist>
